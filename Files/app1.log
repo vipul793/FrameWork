@@ -1,0 +1,25 @@
+2021-09-14 00:16:12,606  INFO [main] FrameworkExecution:65 - Browser launch successfully
+2021-09-14 00:16:14,917  INFO [main] FrameworkExecution:65 - Title = Your store. Login
+2021-09-14 00:16:21,097  INFO [main] FrameworkExecution:65 - clicked on Login button
+2021-09-14 00:16:21,192  INFO [main] FrameworkExecution:65 - Logo displayed status= true
+2021-09-14 00:16:21,342  INFO [main] FrameworkExecution:65 - clicked on catlog drop down
+2021-09-14 00:16:22,928  INFO [main] FrameworkExecution:65 - clicked on product menu
+2021-09-14 00:16:23,091  INFO [main] FrameworkExecution:65 - clicked on product section
+2021-09-14 00:16:23,241  INFO [main] FrameworkExecution:65 - Digital Strom passed on product section
+2021-09-14 00:16:23,366  INFO [main] FrameworkExecution:65 - clicked on warehouse section
+2021-09-14 00:16:23,713  INFO [main] FrameworkExecution:65 - selected value from warehouse drop down
+2021-09-14 00:16:23,881  INFO [main] FrameworkExecution:65 - clicked on category section
+2021-09-14 00:16:24,090  INFO [main] FrameworkExecution:65 - selected value from category drop down
+2021-09-14 00:16:24,260  INFO [main] FrameworkExecution:65 - clicked on product type section
+2021-09-14 00:16:24,547  INFO [main] FrameworkExecution:65 - selected value from product type drop down
+2021-09-14 00:16:24,730  INFO [main] FrameworkExecution:65 - clicked on search category checkbox
+2021-09-14 00:16:24,910  INFO [main] FrameworkExecution:65 - clicked on published section
+2021-09-14 00:16:25,245  INFO [main] FrameworkExecution:65 - selected value from published drop down
+2021-09-14 00:16:25,556  INFO [main] FrameworkExecution:65 - clicked on manufacturer section
+2021-09-14 00:16:25,833  INFO [main] FrameworkExecution:65 - selected value from manufacturer drop down
+2021-09-14 00:16:26,022  INFO [main] FrameworkExecution:65 - passing Apple over go Direct product SKU
+2021-09-14 00:16:26,217  INFO [main] FrameworkExecution:65 - clicked on vendor section
+2021-09-14 00:16:26,477  INFO [main] FrameworkExecution:65 - selected value from vendor drop down
+2021-09-14 00:16:26,651  INFO [main] FrameworkExecution:65 - clicked on search button
+2021-09-14 00:16:29,448  INFO [main] FrameworkExecution:65 - clicked on add new section
+2021-09-14 00:16:31,742  INFO [main] FrameworkExecution:65 - Browser closed

@@ -1,0 +1,27 @@
+2021-09-14 00:08:56,462  INFO [main] FrameworkExecution:65 - Browser launch successfully
+2021-09-14 00:08:56,635  INFO [main] FrameworkExecution:65 - https://admin-demo.nopcommerce.com/loginis loaded
+2021-09-14 00:08:56,685  INFO [main] FrameworkExecution:65 - Title = 
+2021-09-14 00:14:51,492  INFO [main] FrameworkExecution:65 - Browser launch successfully
+2021-09-14 00:14:53,608  INFO [main] FrameworkExecution:65 - Title = Your store. Login
+2021-09-14 00:15:01,616  INFO [main] FrameworkExecution:65 - clicked on Login button
+2021-09-14 00:15:01,706  INFO [main] FrameworkExecution:65 - Logo displayed status= true
+2021-09-14 00:15:01,830  INFO [main] FrameworkExecution:65 - clicked on catlog drop down
+2021-09-14 00:15:04,583  INFO [main] FrameworkExecution:65 - clicked on product menu
+2021-09-14 00:15:04,701  INFO [main] FrameworkExecution:65 - clicked on product section
+2021-09-14 00:15:04,827  INFO [main] FrameworkExecution:65 - Digital Strom passed on product section
+2021-09-14 00:15:04,951  INFO [main] FrameworkExecution:65 - clicked on warehouse section
+2021-09-14 00:15:05,173  INFO [main] FrameworkExecution:65 - selected value from warehouse drop down
+2021-09-14 00:15:05,297  INFO [main] FrameworkExecution:65 - clicked on category section
+2021-09-14 00:15:05,468  INFO [main] FrameworkExecution:65 - selected value from category drop down
+2021-09-14 00:15:05,567  INFO [main] FrameworkExecution:65 - clicked on product type section
+2021-09-14 00:15:05,713  INFO [main] FrameworkExecution:65 - selected value from product type drop down
+2021-09-14 00:15:05,803  INFO [main] FrameworkExecution:65 - clicked on search category checkbox
+2021-09-14 00:15:05,902  INFO [main] FrameworkExecution:65 - clicked on published section
+2021-09-14 00:15:06,071  INFO [main] FrameworkExecution:65 - selected value from published drop down
+2021-09-14 00:15:06,186  INFO [main] FrameworkExecution:65 - clicked on manufacturer section
+2021-09-14 00:15:06,338  INFO [main] FrameworkExecution:65 - selected value from manufacturer drop down
+2021-09-14 00:15:06,452  INFO [main] FrameworkExecution:65 - passing Apple over go Direct product SKU
+2021-09-14 00:15:06,629  INFO [main] FrameworkExecution:65 - clicked on vendor section
+2021-09-14 00:15:06,818  INFO [main] FrameworkExecution:65 - selected value from vendor drop down
+2021-09-14 00:15:06,924  INFO [main] FrameworkExecution:65 - clicked on search button
+2021-09-14 00:15:11,181  INFO [main] FrameworkExecution:65 - clicked on add new section
